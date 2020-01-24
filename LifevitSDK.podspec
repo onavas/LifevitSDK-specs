@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'Custom', :file => 'LICENSE.MD' }
   s.author           = { 'Name' => 'info@inmovens.com' }
   
-#  s.source           = { :git => 'https://github.com/onavas/LifevitSDK.git', :tag => "#{s.version}"}
-  s.source           = { :http => 'https://cocoapods.lifevit.es/LifevitSDK.1.7.3.zip', :type => 'zip'}
+  s.source           = { :git => 'https://github.com/onavas/LifevitSDK.git', :tag => "#{s.version}"}
+#  s.source           = { :http => 'https://cocoapods.lifevit.es/LifevitSDK.1.7.3.zip', :type => 'zip'}
 #  s.source           = { :http => 'https://cocoapods.lifevit.es/LifevitSDK.1.7.3.tar.gz', :type => 'tgz'}
 #  s.source           = { :git => 'https://github.com/onavas/LifevitSDK.git', :tag => s.version.to_s }
 
