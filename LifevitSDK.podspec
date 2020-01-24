@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
                        DESC
 
   s.homepage         = 'http://www.inmovens.com'
-  s.license          = { :type => 'Custom', :file => 'LICENSE.MD' }
+  s.license          = { :type => 'Custom', :file => 'README.md' }
   s.author           = { 'Name' => 'info@inmovens.com' }
   
   s.source           = { :git => 'https://github.com/onavas/LifevitSDK.git', :tag => "#{s.version}"}
